@@ -56,6 +56,6 @@ Maintain statistics on connection state, signal strength, IPs, etc over time
 * The UI:
   * will display, plot, alert on, and generally do useful things to the data
   * will come in various flavors:
-    * Full-power Linux/Windows client (or just Linux, if cross-platform doesn't pan out
-	 * Lightweight alert-oriented modules for Linux, Windows, Android
-	 * MediaPortal plugin
+    * Full-power Linux/Windows client (or just Linux, if cross-platform doesn't pan out)
+    * Lightweight alert-oriented modules for Linux, Windows, Android
+    * MediaPortal plugin
